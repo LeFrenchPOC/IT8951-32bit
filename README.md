@@ -75,4 +75,4 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2021 [Le French POC](https://github.com/LeFrenchPOC).<br />
-This project is [MIT]https://github.com/LeFrenchPOC/IT8951-32bit/blob/main/LICENSE) licensed.
+This project is [MIT](https://github.com/LeFrenchPOC/IT8951-32bit/blob/main/LICENSE) licensed.
